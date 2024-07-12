@@ -19,6 +19,13 @@ This repository contains data and analysis related to global financial stability
 This repository contains data and analysis related to global financial stability.
 
 ## Global Financial Stability Index
+# Global Financial Stability
+
+This repository contains data and analysis related to global financial stability.
+
+## Global Financial Stability Index
+
+You can download the `Global_FIN_Blue.html` file from the following link:
 
 You can download the `Global_FIN_Blue.html` file from the following link:
 
